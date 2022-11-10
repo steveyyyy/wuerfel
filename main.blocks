@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="36TbGZvvCSJOX}|dD!Vh" x="0" y="0"></block><block type="device_forever" id="sz|{E6Cl+2H]dz(TgV-T" x="205" y="0"></block><block type="device_gesture_event" id="@YX2nK;nChg|~+x%29h*" x="503" y="48"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="_X6%9S{}`U]lW!yS`/73"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_random" id="^dGC*_R}]/Jb*8o7km/|"><value name="min"><shadow type="math_number" id="`QMaXG2jAc?N,.v0+KT%"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="WPu{GKtl?`r.i/Ce;W~`"><field name="NUM">6</field></shadow></value></block></value></block></statement></block><block type="device_button_event" id="jI/i$48$w]TMM1J9I808" x="125" y="294"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="vEtO4.SIpEKq2r9W+f]b"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block></xml>
